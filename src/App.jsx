@@ -1,10 +1,13 @@
+import Blogs from "./components/blog/blog"
+import Header from "./components/header/header"
 
 function App() {
   
 
   return (
     <>
-      <h1></h1>
+      <Header></Header>
+      <Blogs></Blogs>
     </>
   )
 }
