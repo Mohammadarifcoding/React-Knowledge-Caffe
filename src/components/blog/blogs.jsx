@@ -3,7 +3,7 @@ import { useState } from "react"
 import PropTypes from 'prop-types'
 import Blog from "./blog"
 
-const Blogs = ()=>{
+const Blogs = ({handleBookmarks,handleReadingTime})=>{
 
     const [blogs,setBlogs] = useState([])
     useEffect(()=>{
@@ -12,10 +12,14 @@ const Blogs = ()=>{
        .then(data => setBlogs(data))
     },[])
     return(
+        
         <>
-         {
-            blogs.map(blog=> <Blog blog={blog}></Blog>)
+        <div className="flex flex-col bg-white lg:w-[70%] ">
+        {
+            blogs.map(blog=> <Blog handleReadingTime={handleReadingTime} handleBookmarks={handleBookmarks} blog={blog}></Blog>)
          }
+        </div>
+
         </>
     )
 }

@@ -6,7 +6,7 @@
     "author": "John Techson",
     "authorImg": "https://i.ibb.co/sHMMJ6Q/boy1.png",
     "postedDate": "2023-03-15",
-    "readingTime": "10 minutes",
+    "readingTime": "10",
     "hashtags": ["#AI", "#MachineLearning", "#TechTrends"]
   },
   {
@@ -16,7 +16,7 @@
     "author": "Sarah Code",
     "authorImg": "https://i.ibb.co/wcWsS3f/boy2.jpg",
     "postedDate": "2023-04-02",
-    "readingTime": "8 minutes",
+    "readingTime": "8",
     "hashtags": ["#Blockchain", "#Cryptocurrency", "#FinanceTech"]
   },
   {
@@ -26,7 +26,7 @@
     "author": "David Byte",
     "authorImg": "https://i.ibb.co/ZVV4CPJ/girl1.jpg",
     "postedDate": "2023-05-10",
-    "readingTime": "12 minutes",
+    "readingTime": "12",
     "hashtags": ["#Cybersecurity", "#InfoSec", "#TechSecurity"]
   },
   {
@@ -36,7 +36,7 @@
     "author": "Emily Quantum",
     "authorImg": "https://i.ibb.co/pbPz3Mh/girl2.jpg",
     "postedDate": "2023-06-21",
-    "readingTime": "15 minutes",
+    "readingTime": "15",
     "hashtags": ["#QuantumComputing", "#TechInnovation", "#FutureTech"]
   },
   {
@@ -46,7 +46,7 @@
     "author": "Michael Connect",
     "authorImg": "https://i.ibb.co/1QBDgjM/wepik-export-20230913011920i-O3g.png",
     "postedDate": "2023-07-08",
-    "readingTime": "7 minutes",
+    "readingTime": "7",
     "hashtags": ["#5G", "#IoT", "#WirelessTech"]
   }
 ]
